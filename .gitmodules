@@ -1,0 +1,12 @@
+[submodule "audio"]
+	path = audio
+	url = https://github.com/KudProject/hardware_qcom_audio-caf
+	branch = lineage-18.1/sdm660
+[submodule "display"]
+	path = display
+	url = https://github.com/KudProject/hardware_qcom_display-caf
+	branch = lineage-18.1/sdm660
+[submodule "media"]
+	path = media
+	url = https://github.com/KudProject/hardware_qcom_media-caf
+	branch = lineage-18.1/sdm660
